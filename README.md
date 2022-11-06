@@ -1,4 +1,4 @@
-<h1 align="center"> NLW #10 - Copa </h1>
+<h1 align="center"> NLW #10 Copa </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -21,7 +21,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
 </p>
 
-##  Tecnologias
+ 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -29,18 +29,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e GitHub
 
-##  Projeto
+💻 Projeto
 
 O Calendário da Copa é um projeto que mostra os jogos do Brasil da Copa de 2022.
 
-##  Layout
+📋 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/YR6gzp7cXhk10Fcgdo9DQE/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). É necessário ter conta no [Figma](https://figma.com/) para acessá-lo.
 
-##  Licença
+📝 Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com  by Rocketseat  [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ❤️ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
